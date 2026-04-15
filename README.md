@@ -229,8 +229,8 @@ The repository includes architecture images that summarize the main ideas behind
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd "YT RAG"
+git clone https://github.com/HiteshM2107/RAG-Playground.git
+cd "RAG-Playground"
 ```
 
 ### 2. Install dependencies
@@ -270,7 +270,7 @@ Notes:
 
 You can run the notebooks in Jupyter or VS Code. If you use VS Code, select the project kernel:
 
-- `YT RAG`
+- `RAG-Playground`
 
 ## How to Run
 
@@ -428,7 +428,7 @@ If you want to evolve the project further, strong follow-on improvements would b
 
 If notebook cells fail to run:
 
-- verify that the selected kernel is `YT RAG`
+- verify that the selected kernel is `RAG-Playground`
 - restart the kernel
 - reload the VS Code window if the notebook gets stuck connecting
 - confirm dependencies were installed successfully
